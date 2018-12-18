@@ -12,8 +12,7 @@ There are three parts:
 Training accuracy of 0.992% while test accuracy of 0.859% has
 been achieved without using data augmentation while
 employing the same model which had provided 0.89%
-test accuracy on Cats and Dogs dataset. The model uti-
-lizes 1651 training examples while 354 for validation and
+test accuracy on Cats and Dogs dataset. The model utilizes 1651 training examples while 354 for validation and
 357 for test purposes and the results are achieved after
 training for 3200 epochs using categorical crossentropy
 as loss and accuracy as the metric with 5 convolution
