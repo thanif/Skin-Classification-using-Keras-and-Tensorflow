@@ -9,7 +9,7 @@ There are three parts:
 
 # Part 1 Conclusion
 
-Model 3 provides training accuracy of 0.992%, test accuracy of 0.859% while validation accuracy of 0.867% has
+Training accuracy of 0.992% while test accuracy of 0.859% has
 been achieved without using data augmentation while
 employing the same model which had provided 0.89%
 test accuracy on Cats and Dogs dataset. The model uti-
